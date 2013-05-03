@@ -1,0 +1,15 @@
+{
+  "description": "Gravatar Avatar, synchronises your Gnome-shell avatar with your Gravatar avatar.",
+  "gettext-domain": "gnome-shell-extensions",
+  "name": "Gravatar Avatar",
+  "settings-schema": "org.gnome.shell.extensions.gravatar-avatar",
+  "shell-version": [
+    "3.2",
+    "3.4",
+    "3.6",
+    "3.8"
+  ],
+  "url": "https://github.com/tjaartvdwalt/gravatar-gnome-shell-extension",
+  "uuid": "gravatar-avatar@tjaart.tjaart.co.za",
+  "version": 1
+}

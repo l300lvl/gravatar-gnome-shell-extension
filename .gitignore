@@ -1,0 +1,5 @@
+*.zip
+*~
+
+# Ignore the compiled schemas file
+gravatar-avatar@tjaart.tjaart.co.za/schemas/gschemas.compiled

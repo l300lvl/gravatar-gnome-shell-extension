@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnome-shell-extensions">
+  <schema path="/org/gnome/shell/extensions/gravatar-avatar/" id="org.gnome.shell.extensions.gravatar-avatar">
+    <key type="s" name="gravatar-email">
+      <default>"foo@bar.com"</default>
+      <summary>Your Gravatar email address</summary>
+      <description>The avatar corresponding to this email address from gravatar.com will be used as your Gnome avatar.</description>
+    </key>
+  </schema>
+</schemalist>
